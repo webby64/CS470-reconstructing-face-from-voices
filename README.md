@@ -1,1 +1,1 @@
-# CS470-reconstructing-face-from-voices
+# CS470-reconstructing-faces-from-voices
